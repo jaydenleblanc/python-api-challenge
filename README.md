@@ -15,7 +15,7 @@ In this project scatter plots and correlation graphs were built using data retur
 - Python
 - JSON
 - Matplotlib, Pandas, Numpy, Requests, Time
-- Scipy.stats, Api keys, Citipy
+- scipy.stats, api keys, citipy
 
 ---
 
