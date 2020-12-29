@@ -1,7 +1,5 @@
 ## Weather Forecasting using a Python API - Statistical Analysis
 
----
-
 In this project scatter plots and correlation graphs were built using data returned from the Open Weather Map API and JSON traversals to extract identifying information regarding global city weather data in Jupyter. From there I applied linear regression to determine the equation of the line formed between 2 continuous variables for each hempishere.
 
 ## Methods Used
